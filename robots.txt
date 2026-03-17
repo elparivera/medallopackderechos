@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elparivera.github.io/medallopackderechos/sitemap.xml
